@@ -1,0 +1,69 @@
+<resources>
+
+    <string name="app_name">Inventions that Changed the World</string>
+    <string name="start">start</string>
+    <string name="name">Enter Your name here</string>
+    <string name="player">"Player: "</string>
+    <string name="ContinueButton">Continue</string>
+    <string name="ResetButton">Reset</string>
+    <string name="SubmitButton">Submit</string>
+    <string name="zero">" "</string>
+
+    <string name="Title_Q1">Question 1: Fire</string>
+    <string name="Q1">"The ability to control fire was a dramatic change in the habits of early humans.What do you think, what was the impact? "</string>
+    <string name="Q1_answer1">It enabled them to live in cooler climates.</string>
+    <string name="Q1_answer2">It helped to keep nocturnal predators at bay.</string>
+    <string name="Q1_answer3">To generate heat and light made it possible for people to cook food, simultaneously increasing the variety and availability of nutrients and reducing disease by killing organisms in the food.</string>
+    <string name="Q1_answer4">It has also many other impacts.</string>
+
+    <string name="Title_Q2">Question 2: Wheel </string>
+    <string name="Q2">"Near which city was the oldest wheel and axle mechanism found?</string>
+    <string name="Q2_answer1">Athens</string>
+    <string name="Q2_answer2">Cairo</string>
+    <string name="Q2_answer3">Ljubljana</string>
+
+    <string name="Title_Q3">Question 3: Compass</string>
+    <string name="Q3">The magnetic compass was first invented as a device for divination and later adopted for navigation. Do you know by which nation?</string>
+    <string name="Q3_answer1">the Persians</string>
+    <string name="Q3_answer2">the Greeks</string>
+    <string name="Q3_answer3">the Chinese</string>
+
+    <string name="Title_Q4">Question 4: Light bulb</string>
+    <string name="Q4">"Every invention is built by incrementally improving earlier designs, and the person usually associated with an invention is the first person to make it commercially viable. Such is the case with the light bulb. Do you know the name of the most popular inventor of the light bulb?"</string>
+    <string name="Q4_answer1">Joseph Swan</string>
+    <string name="Q4_answer2">Thomas Alva Edison</string>
+    <string name="Q4_answer3">Hiram Stevens Maxim</string>
+
+    <string name="Title_Q5">"Question 5: Printing Press"</string>
+    <string name="Q5">"The Printing Revolution occurred when the spread of the printing press facilitated the wide circulation of information and ideas, acting as an "agent of change" through the societies that it reached.Do you know the name of the "inventor" of printing press?"</string>
+    <string name="Q5_answer1">Goryeo Dynasty</string>
+    <string name="Q5_answer2">Johannes Gutenberg</string>
+    <string name="Q5_answer3">Jonaus Gutenberg</string>
+
+    <string name="Title_Q6">"Question 6: Steam Engine"</string>
+    <string name="Q6">"The concept of using steam to power machines had been around for thousands of years, but Thomas Newcomen's creation in 1712 was the first to harness that power for useful work (pumping water out of mines, for the most part). In 1769, a Scotish inventor modified a Newcomen engine by adding a separate condenser, which vastly increased the steam engine's power and made it a far more practical way to do work. Do you know the name of this Scotish inventor?"</string>
+    <string name="Q6_answer1">"Charles Watt"</string>
+    <string name="Q6_answer2">"John Watt"</string>
+    <string name="Q6_answer3">"James Watt"</string>
+
+    <string name="Title_Q7">"Question 7: Computer"</string>
+    <string name="Q7">"Richard Braithwait, an English writer, used the word "computer" for first time in a book called The Yong Mans Gleanings. Can you estimate the year when this happened?"</string>
+    <string name="Q7_answer1">"1613"</string>
+    <string name="Q7_answer2">"1890"</string>
+    <string name="Q7_answer3">"1900"</string>
+
+    <string name="Title_Q8">"Question 8: Internet"</string>
+    <string name="Q8">The Internet, a network of computers covering the entire planet, allows people to access almost any information located anywhere in the world at any time. what do you think, what percentage of the world population, according to the  International Telecommunications Union, did not use internet in 2016?</string>
+    <string name="Q8_hint">Enter your guess</string>
+    <string name="Q8_answer1">"53%"</string>
+    <string name="Q8_answer2">"43%"</string>
+    <string name="Q8_answer3">"33%"</string>
+
+    <string name="scoredWell">"Well done. You must be an expert."</string>
+    <string name="scoredOk">"You can be proud of yourself!"</string>
+    <string name="scoredBad">"Maybe next time you will heave more luck…"</string>
+    <string name="correct_answers">"Correct answers are: \nQ1:a,b,c,d; Q2:c; Q3:c; Q4:b; Q5:b; Q6:c; Q7:a; Q8:53"</string>
+    <string name="share_score">Share Score</string>
+    <string name="blank">" "</string>
+
+</resources>
